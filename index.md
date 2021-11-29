@@ -1,4 +1,4 @@
-# Assignment Links
+## Assignments ✅
 
 ### Module 2
 - [Assignment](https://ngzhekai.github.io/Coursera-Module-2-Coding-Assignment/)
