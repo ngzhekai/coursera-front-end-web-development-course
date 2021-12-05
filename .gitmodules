@@ -1,6 +1,3 @@
-[submodule "Module-4"]
-	path = Module-4
-	url = https://github.com/ngzhekai/Coursera-Module-4-Coding-Assignment.git
 [submodule "Module-3"]
 	path = Module-3
 	url = https://github.com/ngzhekai/Coursera-Module-3-Coding-Assignment.git
