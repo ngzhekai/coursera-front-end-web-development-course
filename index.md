@@ -17,3 +17,9 @@
 ### Module 4
 - [Assignment](https://ngzhekai.github.io/Coursera-Module-4-Coding-Assignment/) ✅
 - [Solution](https://github.com/ngzhekai/Coursera-Module-4-Coding-Assignment.git) ✅
+
+<br>
+
+### Module 5
+- [Assignment](https://ngzhekai.github.io/Coursera-Module-5-Coding-Assignment/) ✅
+- [Solution](https://github.com/ngzhekai/Coursera-Module-5-Coding-Assignment.git) ✅
